@@ -12,11 +12,6 @@ This project analyzes pizza sales data using SQL to extract insights related to 
 ## 🛠️ Tools Used
 - SQL  
 
-## 📂 Files Included
-- SQL Queries  
-- Project Presentation (PPT)  
-- Business Questions  
-
 ## 📊 Key Insights
 - Identified top-selling pizzas  
 - Analyzed revenue trends  
