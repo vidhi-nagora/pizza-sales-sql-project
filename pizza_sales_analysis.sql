@@ -2,7 +2,7 @@
 
 -- Create Database
 CREATE database pizzahut; 
-use pizzahut;
+USE pizzahut;
 
 -- Create Tables
 CREATE TABLE orders (
